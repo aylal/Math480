@@ -2,7 +2,7 @@ def __main__():
     number = 542
     sumr = 0
     for r in range(int(number)):
-	sumr += r*r
+		sumr += r*r
     print(sumr)
           
 if __name__ == '__main__':

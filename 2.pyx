@@ -11,4 +11,4 @@ def __main__():
 if __name__ == '__main__':
     __main__()
     timeit("__main__()")
-	# 617 microseconds
+	# 612 microseconds
